@@ -1,0 +1,11 @@
+[window]
+decorations = "Full"
+opacity = 0.9
+title = "Computer go brrr"
+decorations_theme_variant = "Dark"
+
+[cursor]
+style = { shape = "Block", blinking = "Off" }
+
+[mouse]
+hide_when_typing = true
